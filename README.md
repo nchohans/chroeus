@@ -37,8 +37,6 @@ I'm always open to new opportunities just connect with me on my LinkedIn: [Linke
 - CB<br>
 - 100 Days of Code<br>
 - WAGMI Gradient<br>
-
-## My Startups and Organisations <br>
 - Hackathon Website<br>
 - Coeus Labs<br>
 - Personal Website<br>
