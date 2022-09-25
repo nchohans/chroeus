@@ -7,36 +7,36 @@
 3. 🎥|Creating top notch content on web 3.0 to make awareness<br>
 4.🏙️| I'm building my skills in tech<br>
 
-I'm a 16 y/o builder & entrepreneur I am presently working as a freelancer,blogger, entrepreneur & software developer. I'm currently training students from the age of 12-20 for professional career. I'm also training students from the age of 6-21 for coding with making a customised roadmap for each one of them based on their grasping ability,critical thinking, innovative skills & problem solving<br>
-Around summer of 2017 I opened the first code editor of my life VS CODE not being experienced in technologies I learnt  programming through different resources that I found online one of the first languages I learnt was Javascript I found it particularly interesting and it piqued my interest because of the use case of it. Then I went on to learn a few more programming languages and frameworks currently I'm a web developer, app developer and an intermediate python developer. I'm soon hoping to learn DS & Algorithms alongside with artificial intelligence and machine learning(since I'm already intermediate in python)<br>
-Recently after the lockdown I have worked with a few companies and non profits and helped them develop a unique user base and value proposition that would really pique the interest of users to comment on that product and give valuable feedback<br>
-In the present I've been trying to build my YouTube channel I post content on tech and entrepreneurship soon I'm going to start a build in public project for which I'll be posting it on bip.so website you can view it in my upcoming posts anytime soon<br>
-I currently plan to major in Physics & launch some new and exciting solutions in the domain<br>
+I'm currently working as a software developer. I do plan to startup soon enough and my main point of focus while I get into entrepreneurship would be healthcare and edtech sector as I'm very much passionate about building sustainable solutions for people who can't afford fancy healthcare facilities and my son is edtech industry is to make educational and career opportunities available for students from the rural areas of India. My main point of expertise as a developer is Machine Learning currently I do have a wide array of portfolio and certifications on Coursera and GitHub but I do plan to take up certification examinations after my senior year of high school
 
 ## Here's my tech stack: <br>
 
-- Familiar with reactjs and a few other javascript frameworks<br>
-- Full Stack and Blockchain Developer<br>
-- Python Developer<br>
-- App Developer<br>
+- Familiar with reactjs ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) and a few other js
+- Full Stack web 2 developer ( My Stack: ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) my to go hosting alternative to ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) is Deta which is also an oss alternative to vercel and also exploring appwrite an oss alternative to firebase
+- ML Engineer whose trying to proficient their skills
+- App Development using ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 
-If you would like to connect with me on my other socials:<br>
-https://lu.ma/nived<br>
+If you would like to connect with me on my other [socials](https://lu.ma/nived):<br>
+
 
 My goals:<br>
 
 - To build products that would change our presumptions about various domains in tech<br>
 - To create and build my own personal brand<br>
 
-I'm always open to new opportunities just connect with me on my LinkedIn: [LinkedIn](https://linkedin.com/in/prasniv)
+I'm always open to new opportunities just connect with me on my [LinkedIn](https://linkedin.com/in/chroeus)
 
-## My Side Projects<br>
+I'm also currently learning designing so you can check out my ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
+So here's my Figma and Dribble linked above
 
-- Criminal Buzzer<br>
-- 100 Days of Code<br>
-- WAGMI Gradient<br>
-- Hackathon Website<br>
-- Coeus Labs<br>
-- Personal Website<br>
-- Hackvasir<br>
-- Python Package for Physics<br>
+## My ongoing Projects<br>
+
+- Criminal Buzzer
+- Apple Product Page
+- Hecate Agers
+- Discord Game Bot
+- Quants Blog
+- Finesse Skills
+- Python Package for Physics
+- Developing my first hardware Prototype using  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+And a few hardware projects using Arduino and a few other hardware
