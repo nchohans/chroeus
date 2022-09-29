@@ -40,3 +40,5 @@ So here's my Figma and Dribble linked above
 - Python Package for Physics
 - Developing my first hardware Prototype using  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 And a few hardware projects using Arduino and a few other hardware
+
+[![@chroeus's Holopin board](https://holopin.io/api/user/board?user=chroeus)](https://holopin.io/@chroeus)
